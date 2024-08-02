@@ -22,7 +22,7 @@ body{
   background: linear-gradient(
       rgba(92, 142, 138, 0.7),
       rgba(97, 63, 63, 0.7)),
-      url(proyecto.jpg) center bottom no-repeat;
+      img src="proyecto.jpg" center bottom no-repeat;
   background-size: cover;
   min-height: 70vh;
   display: flex;
